@@ -2,7 +2,7 @@
 what we learned ?
 we learened about html
 how to make paragraphs <p>........</p>
-hraders <h1> <h2> <h3>.......
+headers <h1> <h2> <h3>.......
   links  <a href=..........></a>
 searching
 styles 
