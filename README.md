@@ -5,6 +5,7 @@ how to make paragraphs <p>........</p>
 headers <h1> <h2> <h3>.......
   links  <a href=..........></a>
 searching
+  coloring
 styles 
 example
    main{
